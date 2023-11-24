@@ -14,7 +14,7 @@ finance use cases, marking a significant advancement in the convergence of
 traditional financial principles and decentralized technologies.
 
 The Provable Identity Framework is discussed in more detail
-[below](#provable-identity-framework).
+[here](#provable-identity-framework).
 For more information on Haven1 and the Provable Identity Framework, visit the
 [documentation](https://docs.haven1.org) and view the [litepaper](https://docsend.com/view/8hnh4kah6updyzf4).
 
